@@ -1,0 +1,1 @@
+# django-hit137-2026-week2-practicals-v3
